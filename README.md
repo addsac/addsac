@@ -1,0 +1,5 @@
+- 👋🏻 Hi, I’m Leonardo Citton
+- 📈 I'm a fullstack developer
+- 💻 I work in: Laravel, React, Vue, Tailwind
+- 🏠 I live in: Cittadella (Padova), Italia
+- 📫 How to reach me: leocitton@gmial.com
