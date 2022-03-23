@@ -2,12 +2,12 @@
 
 <br>
 
-<h3> I am a freelance Software Developer based in Italy </h3>
+<h3> I am a Software Developer based in Italy </h3>
 
-- 👤 I’m Leonardo Citton
-- 📈 I'm a Fullstack Developer
-- 💻 I work in: Laravel, React, Vue, Tailwind, Gsap
-- 🏠 I live in: Cittadella (Padova), Italia
+- I’m Leonardo Citton
+- I'm a Fullstack Developer
+- I work with: Laravel, React, Vue, Tailwind, Gsap
+- I live in: Cittadella (Padova), Italia
 
 <br>
 
