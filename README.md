@@ -2,8 +2,14 @@
 
 - I’m Leonardo Citton
 - I'm a Fullstack Software Developer based in Italy
-- I work with: Laravel, React, Vue, Tailwind, Gsap
 - I live in: Cittadella (Padova), Italia
+
+### Techs
+- Laravel
+- Vue.js
+- React
+- Tailwind
+- Gsap
 
 ### Latest Articles on the Blog
 
