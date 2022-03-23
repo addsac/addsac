@@ -24,8 +24,9 @@
 
 <br>
 
-<h3> My personal website </h3>
+<h3> How to contact me </h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [leonardocitton.com](https://leonardocitton.com)
+- [linkedin](https://www.linkedin.com/in/leonardo-citton)
 <!-- BLOG-POST-LIST:END -->
