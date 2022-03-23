@@ -1,11 +1,11 @@
-<h3 style="margin-top: 10px"> Who I am </h3>
+### Who I am
 
 - I’m Leonardo Citton
 - I'm a Fullstack Software Developer based in Italy
 - I work with: Laravel, React, Vue, Tailwind, Gsap
 - I live in: Cittadella (Padova), Italia
 
-<h3 style="margin-top: 10px"> Latest Articles on the Blog </h3>
+### Latest Articles on the Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Seo per sviluppatori – Guida Completa](https://leonardocitton.com/blog/seo-per-sviluppatori-guida-completa)
@@ -13,7 +13,7 @@
 - [Le tecnologie uso come sviluppatore web](https://leonardocitton.com/blog/che-tecnologie-uso-come-sviluppatore-web)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 style="margin-top: 10px"> How to contact me </h3>
+### How to contact me
 
 <!-- CONTACT-LIST:START -->
 - [Leonardocitton.com](https://leonardocitton.com)
