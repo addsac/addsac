@@ -1,11 +1,7 @@
-<h1 align="left">Who I am</h1>
-
-<br>
-
-<h3> I am a Software Developer based in Italy </h3>
+<h3> Who I am </h3>
 
 - I’m Leonardo Citton
-- I'm a Fullstack Developer
+- I'm a Fullstack Software Developer based in Italy
 - I work with: Laravel, React, Vue, Tailwind, Gsap
 - I live in: Cittadella (Padova), Italia
 
